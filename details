@@ -1,0 +1,13 @@
+the project based on regional insect classification identification 
+  Dataset: 
+	4,610 images, 8 insect classes (butterfly, cockroach, dragonfly, evania, grasshopper, housefly, mosquito, wasp).
+
+  Data Split: 
+	3,458 train, 750 validation, 402 test samples.
+
+problems in existed data :
+    
+Data  Acquisition
+Parameter tuning complexity
+Practical workflow drawback 
+Single species detection
